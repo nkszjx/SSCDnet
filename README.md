@@ -20,16 +20,11 @@ Download ImageNet pretrained Resnet-101([Link](https://download.pytorch.org/mode
 
 ## Training and Validation
 
-### Training 
+### Training and Validation 
 ```
-python train_SSCDnet.py  
+python train_SSCDnet.py   python evaluate.py 
 ```
 
-``` 
-### Validation 
-```
-python evaluate.py 
-```
 
 
 ## Instructions for setting-up Multi-Label Mean-Teacher branch
