@@ -4,7 +4,7 @@
 This Pytorch repository contains the code for our work [Semi-supervised Cloud Detection in Satellite Images by
 Considering Domain Shift Problem]. 
  For semi-supervised cloud detection, we take domain shift problem into account the semi-supervised learning (SSL) network. Feature-level and output-level domain adaptations are applied to reduce the domain distribution gaps between labeled and unlabeled images, thus improving predicted results accuracy of the SSL network.
-Experimental results on Landsat-8 OLI and GF-1 WFV multispectral images demonstrate that the proposed semi-supervised cloud detection network (SSCDnet) is able to achieve promising cloud detection performance when using a limited number of labeled samples and outperforms several state-of-the-art SSL methods
+Experimental results on Landsat-8 OLI (https://landsat.usgs.gov/landsat-8-cloud-cover-assessment-validation-data) and GF-1 WFV (http://sendimage.whu.edu.cn/en/mfc-validation-data/) multispectral images demonstrate that the proposed semi-supervised cloud detection network (SSCDnet) is able to achieve promising cloud detection performance when using a limited number of labeled samples and outperforms several state-of-the-art SSL methods
 
 ## Package pre-requisites
 The code runs on Python 3 and Pytorch 0.4 The following packages are required. 
