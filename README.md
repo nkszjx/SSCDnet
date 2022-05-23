@@ -1,5 +1,4 @@
 # SSCDnet
-Semi-supervised Cloud Detection in Satellite Images by Considering Domain Shift Problem
 # Semi-supervised Cloud Detection in Satellite Images by Considering Domain Shift Problem
 
 This Pytorch repository contains the code for our work [Semi-supervised Cloud Detection in Satellite Images by
