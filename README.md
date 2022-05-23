@@ -47,10 +47,9 @@ Parts of the code have been adapted from:
 ## Citation
 A sumitted paper of Remote sensing
 
-```
 
-@article{guo2022SSCDnet,
-
+@article{
+    guo2022SSCDnet,
     Author = {Jianhua Guo and Qingsong Xu and Yue Zeng and Zhiheng Liu and Xiao Xiang Zhu},
     
     Title = {Semi-Supervised Cloud Detection in Satellite Images by Considering Domain Shift Proble.},
@@ -60,4 +59,3 @@ A sumitted paper of Remote sensing
     Year = {2022},
 }
 
-```
