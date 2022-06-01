@@ -56,25 +56,18 @@ Guo, Jianhua, Qingsong Xu, Yue Zeng, Zhiheng Liu, and Xiaoxiang Zhu. 2022. "Semi
 
 Bib Tex:
 ##
-@article{rs14112641,
-AUTHOR = {Guo, Jianhua and Xu, Qingsong and Zeng, Yue and Liu, Zhiheng and Zhu, Xiaoxiang},
-TITLE = {Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem},
-JOURNAL = {Remote Sensing},
-VOLUME = {14},
-YEAR = {2022},
-NUMBER = {11},
-ARTICLE-NUMBER = {2641},
-URL = {https://www.mdpi.com/2072-4292/14/11/2641},
-ISSN = {2072-4292},
-DOI = {10.3390/rs14112641}
-}
 
-##
 
-    @article{CP2016Deeplab,
-      title={DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs},
-      author={Liang-Chieh Chen and George Papandreou and Iasonas Kokkinos and Kevin Murphy and Alan L Yuille},
-      journal={arXiv:1606.00915},
-      year={2016}
+    @article{Guo2022semi,
+      title={Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem},
+      author={Guo, Jianhua and Xu, Qingsong and Zeng, Yue and Liu, Zhiheng and Zhu, Xiaoxiang},
+      journal={Remote Sensing},
+      year={2022},
+      volume = {14},
+      number = {11},
+      article-number = {2641},
+      url = {https://www.mdpi.com/2072-4292/14/11/2641},
+      ISSN = {2072-4292},
+      doi = {10.3390/rs14112641}
     }
 
