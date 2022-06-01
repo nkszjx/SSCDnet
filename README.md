@@ -71,3 +71,10 @@ DOI = {10.3390/rs14112641}
 
 ##
 
+    @article{CP2016Deeplab,
+      title={DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs},
+      author={Liang-Chieh Chen and George Papandreou and Iasonas Kokkinos and Kevin Murphy and Alan L Yuille},
+      journal={arXiv:1606.00915},
+      year={2016}
+    }
+
