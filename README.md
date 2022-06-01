@@ -55,8 +55,8 @@ Chicago/Turabian Style
 Guo, Jianhua, Qingsong Xu, Yue Zeng, Zhiheng Liu, and Xiaoxiang Zhu. 2022. "Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem" Remote Sensing 14, no. 11: 2641. https://doi.org/10.3390/rs14112641
 
 Bib Tex:
-
-@Article{rs14112641,
+##
+@article{rs14112641,
 AUTHOR = {Guo, Jianhua and Xu, Qingsong and Zeng, Yue and Liu, Zhiheng and Zhu, Xiaoxiang},
 TITLE = {Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem},
 JOURNAL = {Remote Sensing},
@@ -69,5 +69,5 @@ ISSN = {2072-4292},
 DOI = {10.3390/rs14112641}
 }
 
-
+##
 
