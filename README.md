@@ -43,11 +43,14 @@ Parts of the code have been adapted from:
 This paper has been published by Remote sensing.
 
 MDPI and ACS Style
+
 Guo, J.; Xu, Q.; Zeng, Y.; Liu, Z.; Zhu, X. Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem. Remote Sens. 2022, 14, 2641. https://doi.org/10.3390/rs14112641
 
 AMA Style
+
 Guo J, Xu Q, Zeng Y, Liu Z, Zhu X. Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem. Remote Sensing. 2022; 14(11):2641. https://doi.org/10.3390/rs14112641
 
 Chicago/Turabian Style
+
 Guo, Jianhua, Qingsong Xu, Yue Zeng, Zhiheng Liu, and Xiaoxiang Zhu. 2022. "Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem" Remote Sensing 14, no. 11: 2641. https://doi.org/10.3390/rs14112641
 
