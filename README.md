@@ -25,8 +25,8 @@ Download ImageNet pretrained Resnet-101([Link](https://download.pytorch.org/mode
 ```
 python train_SSCDnet.py   python evaluate.py 
 ```
-
-
+##  Limitations
+Although SSCDnet shows good performance, there is still much room for improvement, such as hyper-parameters setting of loss function and threshold setting of pseudolabeling. Different cloud detection datasets have different domain distributions. You may need to update these parameters to achieve a promising performance on different datasets. In addition, different ground objects have different characteristics, and the performance of SSCDnet on other objects detection also needs to be further evaluated.
 
 ## Instructions for setting-up Multi-Label Mean-Teacher branch
 This work is based on the [Semi-supervised Semantic Segmentation with High- and Low-level Consistency](https://arxiv.org/pdf/1908.05724.pdf).
@@ -40,19 +40,14 @@ Parts of the code have been adapted from:
 [mean-teacher](https://github.com/CuriousAI/mean-teacher) 
 
 ## Citation
-A sumitted paper of Remote sensing
+This paper has been published by Remote sensing.
 
+MDPI and ACS Style
+Guo, J.; Xu, Q.; Zeng, Y.; Liu, Z.; Zhu, X. Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem. Remote Sens. 2022, 14, 2641. https://doi.org/10.3390/rs14112641
 
-@article{
+AMA Style
+Guo J, Xu Q, Zeng Y, Liu Z, Zhu X. Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem. Remote Sensing. 2022; 14(11):2641. https://doi.org/10.3390/rs14112641
 
-    guo2022SSCDnet,
-    
-    Author = {Jianhua Guo and Qingsong Xu and Yue Zeng and Zhiheng Liu and Xiao Xiang Zhu},
-    
-    Title = {Semi-Supervised Cloud Detection in Satellite Images by Considering Domain Shift Proble.},
-    
-    journal = {Remote Sens},
-    
-    Year = {2022},
-}
+Chicago/Turabian Style
+Guo, Jianhua, Qingsong Xu, Yue Zeng, Zhiheng Liu, and Xiaoxiang Zhu. 2022. "Semi-Supervised Cloud Detection in Satellite Images by Considering the Domain Shift Problem" Remote Sensing 14, no. 11: 2641. https://doi.org/10.3390/rs14112641
 
