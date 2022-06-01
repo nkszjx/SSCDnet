@@ -66,7 +66,6 @@ NUMBER = {11},
 ARTICLE-NUMBER = {2641},
 URL = {https://www.mdpi.com/2072-4292/14/11/2641},
 ISSN = {2072-4292},
-ABSTRACT = {In terms of semi-supervised cloud detection work, efforts are being made to learn a promising cloud detection model via a limited number of pixel-wise labeled images and a large number of unlabeled ones. However, remote sensing images obtained from the same satellite sensor often show a data distribution drift problem due to the different cloud shapes and land-cover types on the Earth&rsquo;s surface. Therefore, there are domain distribution gaps between labeled and unlabeled satellite images. To solve this problem, we take the domain shift problem into account for the semi-supervised learning (SSL) network. Feature-level and output-level domain adaptations are applied to reduce the domain distribution gaps between labeled and unlabeled images, thus improving predicted results accuracy of the SSL network. Experimental results on Landsat-8 OLI and GF-1 WFV multispectral images demonstrate that the proposed semi-supervised cloud detection network (SSCDnet) is able to achieve promising cloud detection performance when using a limited number of labeled samples and outperforms several state-of-the-art SSL methods.},
 DOI = {10.3390/rs14112641}
 }
 
