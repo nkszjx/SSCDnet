@@ -13,6 +13,8 @@ The code runs on Python 3 and Pytorch 0.4 The following packages are required.
 pip install scipy tqdm matplotlib numpy opencv-python
 apt-get update -y
 apt-get install libglib2.0-0
+##
+or pip install opencv-python-headless==4.5.3.56
 ```
 
 ## Dataset preparation
