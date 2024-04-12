@@ -59,13 +59,5 @@ Guo, Jianhua, Qingsong Xu, Yue Zeng, Zhiheng Liu, and Xiaoxiang Zhu. 2022. "Semi
 
 Bib Tex:
 ##
-Guo, Jianhua, et al. "Semi-supervised cloud detection in satellite images by considering the domain shift problem." Remote Sensing 14.11 (2022): 2641.
 
-Guo, Jianhua, et al. "Nationwide urban tree canopy mapping and coverage assessment in Brazil from high-resolution remote sensing images using deep learning." ISPRS Journal of Photogrammetry and Remote Sensing 198 (2023): 1-15.
-
-Guo, Jianhua, Zhiheng Liu, and Xiao Xiang Zhu. "Assessing the macro-scale patterns of urban tree canopy cover in Brazil using high-resolution remote sensing images." Sustainable Cities and Society 100 (2024): 105003.
-
-Guo, Jianhua, Danfeng Hong, and Xiao Xiang Zhu. "High-resolution satellite images reveal the prevalent positive indirect impact of urbanization on urban tree canopy coverage in South America." Landscape and Urban Planning 247 (2024): 105076.
-
-Guo, Jianhua, Danfeng Hong, and Xiao Xiang Zhu. "Continent-wide urban tree canopy fine-scale mapping and coverage assessment in South America with high-resolution satellite images." ISPRS Journal of Photogrammetry and Remote Sensing (Minor revision 12/04/2024)
 
